@@ -34,3 +34,8 @@ input
     top: 0;
     z-index: 9999999;
 }
+.moviehead i {
+    float: right;}
+img{
+    height: 10px;
+}
